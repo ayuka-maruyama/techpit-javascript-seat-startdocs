@@ -17,3 +17,17 @@ assets/audio/drum.mp3 , assets/css/reset.css , assets/css/style.css , assets/ima
 assets/js/script.js , index.html  
   
   
+## 追加作成1  
+### 作成した目的  
+・基礎編で作成した内容から氏名で並び替えを行うように機能を変更  
+  
+### 機能
+・基礎編で作成した内容から、学籍番号　→　氏名へ変更  
+・姓を入力した際に、その内容でシャッフルされるように設定を変更  
+  
+### 使用技術  
+HTML , CSS , JavaScript  
+  
+### 使用ファイル  
+assets/audio/drum.mp3 , assets/css/reset.css , assets/images/stamp.png  
+assets/js/script-update.js , assets/css/style-update.css , index-update.html
